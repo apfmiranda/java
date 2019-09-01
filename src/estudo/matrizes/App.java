@@ -7,7 +7,7 @@ public class App {
         Scanner scan = new Scanner(System.in);
         System.out.print("Digite o número de jogos que voce quer gerar: ");
 
-        int valor = scan.nextInt();;
+        int valor = scan.nextInt();
         int qtdJogos = (valor > 0) ? valor : 1;
 
         MegaSena mega = new MegaSena(qtdJogos);
