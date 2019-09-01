@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "matriz.Teste",
+            "projectName": "java_f309e176"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "java_f309e176"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java_f309e176"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MegaSena",
+            "request": "launch",
+            "mainClass": "MegaSena"
+        }
+    ]
+}
